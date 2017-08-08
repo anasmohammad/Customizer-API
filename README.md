@@ -28,7 +28,7 @@
 	   );
 
 
-// ECHO OUT 
+<!-- ECHO OUT -->
 
   <?php if( get_theme_mod( 'team_logo' ) != "" ): ?>
     <a href=""><img src="<?php echo get_theme_mod( 'team_logo' ); ?>" alt=""></a>
